@@ -14,3 +14,4 @@ The install requirements are:
 ### Usage
 - By altering the query_category and query_item, any Entry Attributes can be retrieved and appended to a tsv file.
 - Edit the fileloc variable to designate the name and location of the SASA tsv output file
+- The program will output an appended tsv file with the request information to ./Descript_API.tsv
