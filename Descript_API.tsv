@@ -1,0 +1,14 @@
+PDB ID	Struct	RMSD	Start	End	Seq	DSSP Cat	DSSP SS	Surface?	Description
+1BZY	match1.pdb	0.21521	95	100	IRLKSY	CBCSCS	SSSSSS	OK	HUMAN HGPRTASE WITH TRANSITION STATE INHIBITOR
+7JUJ	match2.pdb	0.22365	99	104	PCTTSG	SBSSSC	LLLLSS	OK	Cruzain bound to Gallinamide inhibitor
+3OZF	match4.pdb	0.2402	115	120	VRVKSY	CBCSCS	SSSSSS	OK	Crystal Structure of Plasmodium falciparum Hypoxanthine-Guanine-Xanthine Phosphoribosyltransferase in complex with hypoxanthine
+3OZF	match6.pdb	0.26268	349	354	VRVKSY	CBCSCS	SSSSSS	OK	Crystal Structure of Plasmodium falciparum Hypoxanthine-Guanine-Xanthine Phosphoribosyltransferase in complex with hypoxanthine
+1CJB	match7.pdb	0.26652	336	341	VRVKSY	CBCSCS	SSSSSS	OK	MALARIAL PURINE PHOSPHORIBOSYLTRANSFERASE
+1PGV	match10.pdb	0.27059	102	107	VEFKAD	CSCSCS	LSSSLL	OK	Structural Genomics of Caenorhabditis elegans: tropomodulin C-terminal domain
+1CJB	match12.pdb	0.27825	793	798	VRVKSY	CSCSCS	SSSSSS	OK	MALARIAL PURINE PHOSPHORIBOSYLTRANSFERASE
+4EGF	match13.pdb	0.28725	94	99	NNAGIS	CCCSSS	SSLLLL	OK	Crystal structure of a L-xylulose reductase from Mycobacterium smegmatis
+1CJB	match14.pdb	0.28797	563	568	VRVKSY	CSCSCS	SSSSSS	OK	MALARIAL PURINE PHOSPHORIBOSYLTRANSFERASE
+3OZF	match16.pdb	0.28854	804	809	VRVKSY	CBCSCS	SSSSSS	OK	Crystal Structure of Plasmodium falciparum Hypoxanthine-Guanine-Xanthine Phosphoribosyltransferase in complex with hypoxanthine
+7TUX	match17.pdb	0.28926	110	115	VRVKSY	CSCSCS	SSSSSS	OK	Crystal Structure of Plasmodium falciparum Hypoxanthine-Guanine-Xanthine Phosphoribosyltransferase in complex with [(3S)-4-Hydroxy-3-[({2-amino-4-hydroxy-5H-pyrrolo[3,2-d]pyrimidin-7-yl}methyl)amino]butyl]phosphonic acid
+3OZF	match18.pdb	0.28978	576	581	VRVKSY	CSCSCS	SSSSSS	OK	Crystal Structure of Plasmodium falciparum Hypoxanthine-Guanine-Xanthine Phosphoribosyltransferase in complex with hypoxanthine
+1BZY	match19.pdb	0.29442	737	742	IRLKSY	CBCSCS	SSSSSS	OK	HUMAN HGPRTASE WITH TRANSITION STATE INHIBITOR
