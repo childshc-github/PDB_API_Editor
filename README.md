@@ -17,3 +17,4 @@ The install requirements are:
 - The program will output an appended tsv file with the request information to ./Descript_API.tsv
 
 ## Obsolete PDBs
+Some PDBs have "obsolete" IDs (ex. 7WCS). When this occurs, the API will fail to connect because the webpage no longer exists. If this occurs, remove the obsolete PDB ID from the input TSV.
